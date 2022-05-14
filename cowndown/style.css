@@ -25,6 +25,8 @@ body {
 
 .countdown-body {
   display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .count-box {
